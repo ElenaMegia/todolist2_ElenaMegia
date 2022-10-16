@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-222.3739.54">
+    <data-source name="@server.database.windows.net" uuid="5a35a986-2f53-4b50-9168-99e830c1af29">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="AZURE" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
