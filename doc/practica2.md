@@ -25,6 +25,6 @@ He añadido la barra del menú excepto en las páginas de login y registro, tamb
 
 
 ### URL GitHub y Docker Hub:
-**GitHub** : [todolist-ElenaMegia](https://github.com/ElenaMegia/todolist2-ElenaMegia.git)
+**GitHub** : [todolist2-ElenaMegia](https://github.com/ElenaMegia/todolist2_ElenaMegia.git)
 
 **Docker Hub** : [Imagen Docker](https://hub.docker.com/r/elenamegia/mads-todolist)
