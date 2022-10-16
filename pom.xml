@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>es.ua.mads</groupId>
-    <artifactId>mads-todolist-ElenaMegia</artifactId>
-    <version>1.0.1</version>
+    <artifactId>mtodolist2-ElenaMegia</artifactId>
+    <version>1.0.2</version>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
